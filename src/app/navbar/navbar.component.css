@@ -1,0 +1,23 @@
+.fixed-top {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+ 
+.navbar{
+    background-color: rgb(44, 62, 80);
+}
+
+.nav-link li a{
+     
+ background-color: #1abc9c;
+}
+ 
+  
+@media (min-width: 576px) {
+    .container, .container-sm {
+        max-width: 540px;
+    }
+}

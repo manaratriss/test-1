@@ -1,0 +1,41 @@
+ img{
+     
+    width: 300px;
+ }
+
+ .home{
+    background-color: #1abc9c;
+ }
+ .line{
+    height: 4px;
+    width: 80px;
+ }
+
+ .container2{
+    background-color:rgb(44, 62, 80);
+ }
+
+  .icon{
+    border: 1px white solid;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    padding: 10px;
+  }
+ .fa-brands, .fab {
+    font-weight: 400;
+}
+.fa-brands, .fab {
+    font-family: "Font Awesome 6 Brands";
+}
+
+.Website{
+    background-color: #1a252f;
+}
+.tes{
+        text-align: center;
+    color: #f0f8ff;
+    padding-top: 10px;
+}
